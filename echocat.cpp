@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+//this was an assignment for a class.
 std::string concat_args(char **argv)
 {
 	std::string s = {""};
