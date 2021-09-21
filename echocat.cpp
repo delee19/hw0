@@ -2,6 +2,7 @@
 #include <string>
 
 //this was an assignment for a class.
+//and I'm using it for HW0
 std::string concat_args(char **argv)
 {
 	std::string s = {""};
